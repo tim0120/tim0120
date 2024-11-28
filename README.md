@@ -1,5 +1,6 @@
 ### Hi I'm Tim
 
+<!--
 ```
      /  /  /  /  /  /  /  /  /
     /  /  /  /  /  /  /  /  /
@@ -25,7 +26,6 @@
 ```
 [cat and frog under lillypad](https://chat.openai.com/share/4fc6020f-02f6-4e9b-b83b-7efaae12b063)
 
-<!--
 **tim0120/tim0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
